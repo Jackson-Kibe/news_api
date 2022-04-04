@@ -1,7 +1,0 @@
-refers to an api
-news sources
-top headlines
-image
-publication date
-author
-content
